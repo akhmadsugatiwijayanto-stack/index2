@@ -23,6 +23,6 @@
 <body>
   <h1>AKHMAD SUGATI WIJAYANTO</h1>
   <img src="JAYA (5).jpg" alt="Foto Akhmad" />
-  <h1> Pemilik </h1>  
+  <h1> MILIK </h1>  
 </body>
 </html>
